@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="img/block_logo.png" alt="Project Logo" width="300"> </p>
   
