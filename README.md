@@ -37,7 +37,7 @@ By drawing on participants’ real-world experiences with GenAI in teaching, lea
 ## Get Involved
 Ethically approved by the University of East Anglia (Ref: ETH2425-1497), this interdisciplinary research will adopt a mixed-methods approach, conducted in two distinct phases:
 
-#### Phase One: Take-Home Assessment and Evaluation
+#### Phase One: Take-Home Activities and Evaluation
 Undergraduate and postgraduate students from a range of academic backgrounds will be invited to complete take-home assessments. Participant recruitment will follow Equality, Diversity and Inclusion (EDI) principles to ensure a fair and representative sample. Participation is entirely voluntary, with the freedom to withdraw at any time without the need to provide a reason.
 
 #### Phase Two: In-Depth Interviews and Focus Groups
