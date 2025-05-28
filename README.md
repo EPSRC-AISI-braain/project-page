@@ -47,7 +47,7 @@ To acknowledge participants’ time, insight and expertise, appropriate financia
 
 🔹 Project Information [click to download](docs/Participant Information Sheet Simplified.pdf)
 
-🔹 Concent Form [click to download](docs/PARTICIPANT CONSENT FORM.pdf)
+🔹 Consent Form [click to download](docs/PARTICIPANT CONSENT FORM.pdf)
 
 
 <!-- 
