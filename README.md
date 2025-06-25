@@ -38,12 +38,17 @@ By drawing on participants’ real-world experiences with GenAI in teaching, lea
 Ethically approved by the University of East Anglia (Ref: ETH2425-1497), this interdisciplinary research will adopt a mixed-methods approach, conducted in two distinct phases:
 
 #### Phase One: Take-Home Activities and Evaluation
-Undergraduate and postgraduate students from a range of academic backgrounds will be invited to complete take-home assessments. Participant recruitment will follow Equality, Diversity and Inclusion (EDI) principles to ensure a fair and representative sample. Participation is entirely voluntary, with the freedom to withdraw at any time without the need to provide a reason.
+Undergraduate and postgraduate students from a range of academic backgrounds will be invited to complete take-home assessments/activities. Participant recruitment will follow Equality, Diversity and Inclusion (EDI) principles to ensure a fair and representative sample. Participation is entirely voluntary, with the freedom to withdraw at any time without the need to provide a reason.
 
 #### Phase Two: In-Depth Interviews and Focus Groups
 This phase will involve individual interviews and focus group discussions with students and educators from Phase One, as well as policymakers, regulators and industry experts. These sessions aim to provide deeper insight into participants’ perspectives, behaviours and decision-making processes related to GenAI use in academic and professional environments.
 
 To acknowledge participants’ time, insight and expertise, appropriate financial incentives and other forms of compensation will be provided. These will be administered in line with ethical research practices and financial compliance requirements, ensuring transparency, fairness and respect for all contributors.
+
+#### Stakeholder Engagement
+If you want to be involved in the stakeholders' engagment, please get in touch by emailing F.Liza@uea.ac.uk 
+
+#### Relevant Documents
 
 🔹 Project Information [click to download](docs/Participant Information Sheet.pdf)
 
