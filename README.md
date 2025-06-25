@@ -49,7 +49,8 @@ To acknowledge participants’ time, insight and expertise, appropriate financia
 
 🔹 Consent Form [click to download](docs/PARTICIPANT CONSENT FORM - Researcher Copy.pdf)
 
-🔹 Consent Form [click to download](docs/PARTICIPANT CONSENT FORM - Participant Copy)
+🔹 Consent Form [click to download](docs/PARTICIPANT CONSENT FORM - Participant Copy.pdf)
+
 
 <!-- 
 ### Key Objectives
