@@ -47,10 +47,11 @@ To acknowledge participants’ time, insight and expertise, appropriate financia
 
 🔹 Project Information [click to download](docs/Participant Information Sheet.pdf)
 
-🔹 Consent Form [click to download](docs/PARTICIPANT CONSENT FORM - Researcher Copy.pdf)
+🔹 Consent Form (researcher's copy) [click to download](docs/PARTICIPANT CONSENT FORM - Researcher Copy.pdf)
 
-🔹 Consent Form [click to download](docs/PARTICIPANT CONSENT FORM - Participant Copy.pdf)
+🔹 Consent Form (participant's copy) [click to download](docs/PARTICIPANT CONSENT FORM - Participant Copy.pdf)
 
+Please send the completed researcher's copy to F.Liza@uea.ac.uk
 
 <!-- 
 ### Key Objectives
